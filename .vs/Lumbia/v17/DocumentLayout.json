@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.data\\dal\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|solutionrelative:lumbia.data\\dal\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\lumbia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\lumbia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|solutionrelative:lumbia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\service\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\service\\concretes\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\service\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\service\\abstracts\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\exceptions\\filenamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\exceptions\\filenamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\exceptions\\teamnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.bussiness\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ACC2E-4016-4212-A024-804911075BF1}|Lumbia.Bussiness\\Lumbia.Bussiness.csproj|solutionrelative:lumbia.bussiness\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.data\\dal\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|solutionrelative:lumbia.data\\dal\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E7DD39-1849-4C83-AFDC-C3FF7BEFEFFE}|Lumbia.Core\\Lumbia.Core.csproj|solutionrelative:lumbia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15805749-39D6-4327-BE12-1F05E14F5BE3}|WebApplication1\\Lumbia.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\mumbiatask\\webapplication1\\lumbia.data\\migrations\\20240520205640_createteamtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3763A8-757A-4880-BA7B-EB7FA14A65E6}|Lumbia.Data\\Lumbia.Data.csproj|solutionrelative:lumbia.data\\migrations\\20240520205640_createteamtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Helpers\\Account\\UserRole.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Helpers\\Account\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Helpers\\Account\\UserRole.cs",
+              "RelativeToolTip": "WebApplication1\\Helpers\\Account\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:01:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeToolTip": "Lumbia.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:27:43.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T01:26:58.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeToolTip": "Lumbia.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:46:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T00:44:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwDEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:44:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lumbia.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Lumbia.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\Lumbia.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Lumbia.csproj",
+              "RelativeToolTip": "WebApplication1\\Lumbia.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T00:22:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\User.cs",
+              "RelativeToolTip": "Lumbia.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:55:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:30:27.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:30:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:52:33.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Service\\Concretes\\TeamService.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Service\\Concretes\\TeamService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Service\\Concretes\\TeamService.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Service\\Concretes\\TeamService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAIBJwFQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:24:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Service\\Abstracts\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Service\\Abstracts\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Service\\Abstracts\\ITeamService.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Service\\Abstracts\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:22:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileNameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:21:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Exceptions\\TeamNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\TeamNotFoundException.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Exceptions\\TeamNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:20:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileContentException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileContentException.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Exceptions\\FileContentException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileContentException.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Exceptions\\FileContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:18:52.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Lumbia.Bussiness\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Bussiness\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Lumbia.Bussiness\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:17:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Lumbia.Data\\DAL\\RepositoryConcretes\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeToolTip": "Lumbia.Data\\DAL\\RepositoryConcretes\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:11:18.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Lumbia.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Lumbia.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:11:00.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeToolTip": "Lumbia.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:09:14.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Lumbia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:07:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240520205640_CreateTeamTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\Migrations\\20240520205640_CreateTeamTable.cs",
+              "RelativeDocumentMoniker": "Lumbia.Data\\Migrations\\20240520205640_CreateTeamTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\Migrations\\20240520205640_CreateTeamTable.cs",
+              "RelativeToolTip": "Lumbia.Data\\Migrations\\20240520205640_CreateTeamTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:56:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lumbia.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Lumbia.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:52:09.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\Team.cs",
+              "RelativeToolTip": "Lumbia.Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:44:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Lumbia.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\Lumbia.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Lumbia.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:43:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:23:43.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:23:24.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:22:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACwBAAAAAAAAAAAgwEwBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:22:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:21:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAEwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:20:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T20:20:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:14:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAPEBAAAAAAAAAIBJwAcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:12:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\MumbiaTask\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:12:22.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
